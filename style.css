@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&family=Prompt&display=swap');
+
+
+    *{
+  font-family: 'Prompt', sans-serif;
+
+  box-sizing: border-box;
+  }
+
+    #intro{
+      margin: 60px;
+    }
+    #topbar{
+      font-family: 'Prompt';
+      position: absolute;
+    }
+    #topbar ul{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 0;
+    width:567px;
+    
+    }
+    #topbar ul li{
+    display: inline-block;
+    list-style-type:none;
+    padding: 0px 15px;
+    
+    }
+    #topbar ul li a{
+    color: grey;
+    text-decoration:none;
+    
+    }
+    #topbar ul li a:hover{
+    color:black;
+    }
+    
+
+

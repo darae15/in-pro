@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&family=Prompt&display=swap');
+
+    table td a :hover, table td a :focus{
+    cursor: url(filled.svg),auto !important;
+    }
+
+    *{
+    font-family: 'Prompt', sans-serif;
+    cursor: url(cursor.svg),auto;
+    box-sizing: border-box;
+    }
+    
+    #topbar{
+        font-family: 'Prompt';
+        position: absolute;
+      }
+    
+    #topbar ul{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 0;
+    
+    }
+    #topbar ul li{
+    display: inline-block;
+    list-style-type:none;
+    padding: 0px 15px;
+    
+    }
+    #topbar ul li a{
+    color: grey;
+    text-decoration:none;
+  
+    }
+    #topbar ul li a:hover,#topbar ul li a:focus{
+        color:black;
+        cursor: url(cursor2.svg),auto;
+    }
+
+    
+
+    
+
+
+
+
+
+
+
